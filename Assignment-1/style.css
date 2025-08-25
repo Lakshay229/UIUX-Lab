@@ -1,0 +1,19 @@
+img{
+    max-width: 20%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    right: 0px;
+}
+table {
+    border: 1px solid black;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+ul {
+    list-style-type: circle;
+    
+}
